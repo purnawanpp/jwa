@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <info>
+    <title>Initials Surname Journal Style</title>
+    <id>Rasayan</id>
+    <link>https://www.example.com</link>
+    <author>
+      <name>Your Name</name>
+      <email>your.email@example.com</email>
+    </author>
+  </info>
+  <citation>
+    <layout delimiter=", ">
+      <names variable="author">
+        <name and="text" initialize-with=". " delimiter=", "/>
+      </names>
+      <text variable="container-title" font-style="italic"/>
+      <text>(Vol. <number volume/>, p. <number page/>, <date year/>)</text>
+    </layout>
+  </citation>
+  <bibliography>
+    <layout delimiter=" ">
+      <text variable="author"/>
+      <text variable="container-title" font-style="italic"/>
+      <text>Vol. <number volume/>, p. <number page/>, <date year/></text>
+    </layout>
+  </bibliography>
+</style>
