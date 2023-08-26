@@ -12,12 +12,10 @@
       <name>Purnawan Pontana Putra</name>
       <email>purnawanpp@phar.unand.ac.id</email>
       <uri>https://www.scopus.com/authid/detail.uri?authorId=57222390016</uri>
-    </author>
-    <author/>
     <contributor>
       <name>Purnawan Pontana Putra</name>
       <email>purnawanpp@phar.unand.ac.id</email>
-      <uri>purnawanpp@phar.unand.ac.id</uri>
+      <uri>https://www.scopus.com/authid/detail.uri?authorId=57222390016</uri>
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
@@ -25,7 +23,6 @@
     <eissn>2797-1600</eissn>
     <updated>2023-07-19T10:49:57+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <link/>
   </info>
   <locale>
     <style-options punctuation-in-quote="false"/>
