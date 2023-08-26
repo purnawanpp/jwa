@@ -2,12 +2,12 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>WARTA PENGABDIAN ANDALAS (JWA)</title>
+    <title>Warta Pengabdian Andalas</title>
+    <title-short>WPA</title-short>
     <id>http://www.zotero.org/styles/warta-pengabdian-andalas</id>
     <link rel="self" href="http://www.zotero.org/styles/warta-pengabdian-andalas"/>
     <link href="http://www.zotero.org/styles/warta-pengabdian-andalas" rel="documentation"/>
-    <link href="https://www.emeraldgrouppublishing.com/use-harvard-reference-system" rel="documentation"/>
-    <link href="https://www.emeraldgrouppublishing.com/journal/jmp?id=jmp#author-guidelines" rel="documentation"/>
+    <link href="https://http://wartaandalas.lppm.unand.ac.id/index.php/jwa/navigationMenu/view/Author" rel="documentation"/>
     <author>
       <name>Purnawan Pontana Putra</name>
       <email>purnawanpp@phar.unand.ac.id</email>
@@ -21,8 +21,8 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <issn>2797-1600</issn>
-    <issn/>
+    <issn>0854-655X</issn>
+    <eissn>2797-1600</eissn>
     <updated>2023-07-19T10:49:57+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <link/>
